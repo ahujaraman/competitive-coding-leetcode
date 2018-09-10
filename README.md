@@ -7,7 +7,6 @@ LeetCode
 | # | Title | My Solutions | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [Java](My-Solutions/twoSum.java)|Easy|
-|35|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| [Java](My-Solutions/searchInsertPosition.java)|Easy|
 |11|[Container with most water](https://oj.leetcode.com/problems/container-with-most-water/)| [Java](My-Solutions/container-with-most-water.java)|Medium|
 |14|[Longest common prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| [Java](My-Solutions/longest-common-prefix.java)|Easy|
 |20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [Java](My-Solutions/valid-parentheses.java)|Easy|
