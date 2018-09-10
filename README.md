@@ -2,7 +2,7 @@
 LeetCode
 ========
 
-### LeetCode Algorithm
+### My Leetcode solutions
 
 
 | # | Title | Solution | Difficulty |
